@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-translation-loader",
+    "name": "ozdemir/laravel-translation-loader",
     "description": "Store your language lines in the database, yaml or other sources",
     "keywords": [
         "spatie",
